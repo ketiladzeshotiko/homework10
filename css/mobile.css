@@ -9,4 +9,8 @@
     .burger{
         display: block;
     }
+    /* footer */
+    footer{
+        height: 619px;
+    }
 }

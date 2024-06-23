@@ -68,7 +68,10 @@ header {
     display: flex;
     align-items: center;
 }
-
+.section1_div{
+width: 490px;
+height: 400px;
+}
 .section1_article {
     width: 490px;
     height: 180px;

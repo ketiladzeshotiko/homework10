@@ -9,10 +9,18 @@
     .burger{
         display: block;
     }
+    /* section2 */
+    /* .section2_article{
+      width: 696px;
+      height: 104px;
+    } */
+     /* footer */
+     footer{
+        height: 283px;
+    
+     }
+     .footer_a1{
+        align-items: center;
+     }
 }
-/* fooetr */
-/* .footer_a1{
-    text-align: center;
-    color: yellow;
-    transform: translateX(-50%, -50%);
-} */
+
