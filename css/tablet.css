@@ -1,0 +1,18 @@
+@media  (max-width : 745px){
+    /* header */
+    .header_ul{
+        display: none;
+    }
+    .action_div{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+}
+/* fooetr */
+/* .footer_a1{
+    text-align: center;
+    color: yellow;
+    transform: translateX(-50%, -50%);
+} */

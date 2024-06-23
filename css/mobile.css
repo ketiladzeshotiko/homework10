@@ -1,0 +1,12 @@
+@media  (max-width : 481px){
+     /* header */
+    .header_ul{
+        display: none;
+    }
+    .action_div{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+}
